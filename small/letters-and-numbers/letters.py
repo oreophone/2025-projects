@@ -146,7 +146,7 @@ def main():
     tests
     """
     CHARS = "abdefghijklmnopqrstuvwxyz"
-    s = "".join(choices(CHARS,k=9))
+    s = "".join(choices(CHARS,k=30))
     print(f"test = {s}")
     t = LettersSolver(doQuick=False)
     print("made lettermap!")
