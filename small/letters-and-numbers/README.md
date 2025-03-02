@@ -1,5 +1,5 @@
 # letters-and-numbers
-Solvers for the Letters & Numbers game show, implementing fast algorithms.
+Solvers for the Letters & Numbers game show, implementing fast algorithms that run under the `30s` time limit.
 
 ### Letters 
 **Specs:**
